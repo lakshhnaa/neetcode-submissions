@@ -1,0 +1,5 @@
+// Problem  : two sum
+// Category : arrays
+// Language : int x =1 
+// Solved   : 2026-05-28
+
